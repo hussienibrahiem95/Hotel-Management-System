@@ -1,0 +1,45 @@
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\bin\Debug\HotelProject.exe.config
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.Properties.Resources.resources
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.csproj.GenerateResource.Cache
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\bin\Debug\HotelProject.exe
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\bin\Debug\HotelProject.pdb
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.exe
+c:\users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.pdb
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.Receptionist_Homepage.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.BookingRoom.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.Booking_Conference_Room.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.Manager_Homepage.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.Add_Serveice.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.SystemLogin.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.AddFeedBack.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.Addoffer.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.CheckoutGuest.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.deleteoffer.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.deleteService.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.modifyservice.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.UpdateGuest.resources
+C:\Users\hussien\documents\visual studio 2013\Projects\HotelProject\HotelProject\obj\Debug\HotelProject.AddroomService1.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\bin\Debug\HotelProject.exe.config
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.exe
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.pdb
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.Add_Serveice.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.AddFeedBack.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.Addoffer.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.AddroomService1.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.Booking_Conference_Room.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.BookingRoom.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.CheckoutGuest.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.deleteoffer.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.deleteService.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.modifyservice.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.SystemLogin.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.Manager_Homepage.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.Properties.Resources.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.Receptionist_Homepage.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.UpdateGuest.resources
+C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.csproj.GenerateResource.Cache
+C:\Users\kirello\Desktop\Desk\Hotel Project\HotelProject\HotelProject\bin\Debug\HotelProject.exe.config
+C:\Users\kirello\Desktop\Desk\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.exe
+C:\Users\kirello\Desktop\Desk\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.pdb
