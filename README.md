@@ -9,6 +9,7 @@ Desktop application to help manager and receptionist of the hotel to add/update 
 
 
 * ### Home:
+![2HomePage Of receptionist](https://user-images.githubusercontent.com/15314292/58172982-5edf2180-7c9a-11e9-852f-093e5a723699.png)
 
 
 * ### Booking-Room:
