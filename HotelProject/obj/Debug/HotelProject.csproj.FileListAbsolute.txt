@@ -43,3 +43,6 @@ C:\Users\kirello\Desktop\Hotel Project\HotelProject\HotelProject\obj\Debug\Hotel
 C:\Users\kirello\Desktop\Desk\Hotel Project\HotelProject\HotelProject\bin\Debug\HotelProject.exe.config
 C:\Users\kirello\Desktop\Desk\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.exe
 C:\Users\kirello\Desktop\Desk\Hotel Project\HotelProject\HotelProject\obj\Debug\HotelProject.pdb
+C:\Users\kirello\Desktop\Github\Hotel-Management-System\HotelProject\bin\Debug\HotelProject.exe.config
+C:\Users\kirello\Desktop\Github\Hotel-Management-System\HotelProject\obj\Debug\HotelProject.exe
+C:\Users\kirello\Desktop\Github\Hotel-Management-System\HotelProject\obj\Debug\HotelProject.pdb
